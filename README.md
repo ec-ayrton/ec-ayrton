@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ec-ayrton, I am a soft engineering student at the federal university of ceará.
 - 👀 I'm interested in internship opportunities in the development area.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS,JavaScript and Java ( Spring, JPA, JUnit).
 - 📫 You can find me in https://www.linkedin.com/in/ayrton-sousa-249053176/ or ec.ayrton@gmail.com
 
 <!---
