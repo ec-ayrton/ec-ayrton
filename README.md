@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React(JavaScript) and improving Knowledge Springboot .
+:books: I’m currently learning React(JavaScript) and improving Knowledge on Java Springboot .
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
