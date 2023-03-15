@@ -10,9 +10,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React(JavaScript) and improving Knowledge on Java Springboot .
+:books: I’m currently learning NodeJs and improving Knowledge on Java Springboot .
 
-:outbox_tray: 2021 Goals: create a new project and find a new job. [DONE]
+:outbox_tray: 2021 Goals: Become an expert in Backend Technologies with emphasis on Java SpringBoot and NodeJs.
 
 
 "Keep Studying, never give up."
@@ -20,11 +20,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ec-ayrton/)](https://github.com/ec-ayrton/)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrton-sousa-249053176)](https://www.linkedin.com/in/ayrton-sousa-249053176)
-
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588996095813)](link=https://api.whatsapp.com/send?phone=5588996095813)
 
 
 ## Languages and Tools:
