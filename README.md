@@ -1,7 +1,7 @@
 # 👨‍💻 Ayrton Sousa
-### **Software Engineer | Backend Specialist (Java & Node.js)**
+### **Software Engineer | Backend Developer (Java & Node.js)**
 
-Claro! Sou um Engenheiro de Software focado no desenvolvimento de ecossistemas backend de **alta disponibilidade, resiliência e processamento de alta volumetria**. Minha especialidade é arquitetar soluções robustas utilizando o ecossistema Java/Spring Boot e Node.js, otimizando o uso de recursos computacionais e blindando aplicações contra colapsos de infraestrutura sob estresse severo.
+Sou um Engenheiro de Software focado no desenvolvimento de ecossistemas backend de **alta disponibilidade, resiliência e processamento de alta volumetria**. Minha especialidade é arquitetar soluções robustas utilizando o ecossistema Java/Spring Boot e Node.js, otimizando o uso de recursos computacionais e blindando aplicações contra colapsos de infraestrutura sob estresse severo.
 
 📍 Baseado no Brasil  
 💼 Disponível para projetos globais e desafios de alta complexidade técnica.
