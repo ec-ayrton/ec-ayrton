@@ -1,44 +1,55 @@
-# Welcome!
+# 👨‍💻 Ayrton Sousa
+### **Software Engineer | Backend Specialist (Java & Node.js)**
 
- 
+Claro! Sou um Engenheiro de Software focado no desenvolvimento de ecossistemas backend de **alta disponibilidade, resiliência e processamento de alta volumetria**. Minha especialidade é arquitetar soluções robustas utilizando o ecossistema Java/Spring Boot e Node.js, otimizando o uso de recursos computacionais e blindando aplicações contra colapsos de infraestrutura sob estresse severo.
 
-## I'm Ayrton Sousa!
+📍 Baseado no Brasil  
+💼 Disponível para projetos globais e desafios de alta complexidade técnica.
 
- 
+---
 
-:computer: I'm Back-end Java Developer!
+## 🎯 Foco de Atuação & Engenharia de Resiliência
 
-:house_with_garden: I’m from Brazil.
+Meu trabalho consiste em transformar requisitos de negócio em código de ultra performance, aplicando padrões arquiteturais avançados para controle de tráfego e concorrência:
 
-:books: I’m currently learning NodeJs and improving Knowledge on Java Springboot .
+* **Controle de Tráfego Avançado:** Implementação de algoritmos de Rate Limiting puramente matemáticos (*Token Bucket*) e não-bloqueantes para proteção nativa de servidores HTTP.
+* **Arquiteturas Event-Driven & Resiliência:** Design de esteiras assíncronas utilizando **Apache Kafka** acopladas a padrões de **Circuit Breaker** e Fallbacks automáticos para garantir 100% de uptime (Uptime-First).
+* **Otimização de Concorrência Física (Bulkhead):** Isolamento de recursos críticos via Pools de Threads customizados (`ThreadPoolExecutor`) e buffers estruturados para eliminação de gargalos históricos de concorrência (*Thread Starvation* e *Deadlocks* em sistemas monolíticos Java).
+* **Cultura de Testes de Carga:** Validação empírica de desempenho e simulação de cenários de estresse caótico utilizando **Grafana K6** em ambientes Linux.
 
-:outbox_tray: 2023 Goals: Become an expert in Backend Technologies with emphasis on Java SpringBoot and NodeJs.
+---
 
+## 🛠️ Tecnologias, Ferramentas e Ecossistema
 
-"Keep Studying, never give up."
- 
+### **Backend & Core**
+<code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 
-## About me
+### **Mensageria, Banco de Dados & Infra**
+<code><img height="25" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrton-sousa-249053176)](https://www.linkedin.com/in/ayrton-sousa-249053176)
+### **Testes de Performance & Qualidade**
+<code><img height="25" src="https://img.shields.io/badge/K6-7B68EE?style=for-the-badge&logo=k6&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
 
+---
 
-## Languages and Tools:
-[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=ec-ayrton)](https://github.com/ec-ayrton/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ec-ayrton&layout=compact)](https://github.com/ec-ayrton/github-readme-stats)
+## 📊 Estatísticas de Desempenho
 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ec-ayrton&show_icons=true&theme=reactive&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ec-ayrton&layout=compact&theme=reactive" />
+</p>
 
+---
 
+## 🤝 Conecte-se Comigo
 
-- Thanks for visiting.
+Adoro discutir padrões de microsserviços, otimização de performance na JVM e estratégias de mensageria para sistemas distribuídos. Sinta-se à vontade para iniciar uma conversa ou analisar os repositórios técnicos do meu perfil!
 
-- Enjoy it!! o/
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-sousa-249053176)
