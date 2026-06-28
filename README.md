@@ -39,15 +39,6 @@ Meu trabalho consiste em transformar requisitos de negócio em código de ultra 
 
 ---
 
-## 📊 Estatísticas de Desempenho
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ec-ayrton&show_icons=true&theme=reactive&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ec-ayrton&layout=compact&theme=reactive" />
-</p>
-
----
-
 ## 🤝 Conecte-se Comigo
 
 Adoro discutir padrões de microsserviços, otimização de performance na JVM e estratégias de mensageria para sistemas distribuídos. Sinta-se à vontade para iniciar uma conversa ou analisar os repositórios técnicos do meu perfil!
