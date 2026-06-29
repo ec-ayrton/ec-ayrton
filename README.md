@@ -1,21 +1,34 @@
 # 👨‍💻 Ayrton Sousa
 ### **Software Engineer | Backend Developer (Java & Node.js)**
 
-Sou um Engenheiro de Software focado no desenvolvimento de ecossistemas backend de **alta disponibilidade, resiliência e processamento de alta volumetria**. Minha especialidade é arquitetar soluções robustas utilizando o ecossistema Java/Spring Boot e Node.js, otimizando o uso de recursos computacionais e blindando aplicações contra colapsos de infraestrutura sob estresse severo.
+Engenheiro de Software com experiência prática no desenvolvimento de sistemas corporativos complexos, atuando diretamente na evolução de **ERPs para o setor de Varejo**. Especialista em traduzir regras de negócio críticas e demandas regulatórias (Ecossistema Fiscal) em soluções backend estáveis, além de atuar ativamente no suporte técnico ao time e na sustentação de sistemas de alta criticidade.
+
+Em paralelo, dedico meu tempo livre ao estudo aprofundado de **engenharia de alta performance, resiliência arquitetural e mitigação de concorrência na JVM**.
 
 📍 Baseado no Brasil  
-💼 Disponível para projetos globais e desafios de alta complexidade técnica.
+💼 Disponível para projetos desafiadores e soluções de alta complexidade técnica.
 
 ---
 
-## 🎯 Foco de Atuação & Engenharia de Resiliência
+## 🎯 Foco de Atuação Profissional (Varejo & Fiscal)
 
-Meu trabalho consiste em transformar requisitos de negócio em código de ultra performance, aplicando padrões arquiteturais avançados para controle de tráfego e concorrência:
+No meu dia a dia no mercado de tecnologia, sou responsável por manter as engrenagens de grandes operações funcionando:
 
-* **Controle de Tráfego Avançado:** Implementação de algoritmos de Rate Limiting puramente matemáticos (*Token Bucket*) e não-bloqueantes para proteção nativa de servidores HTTP.
-* **Arquiteturas Event-Driven & Resiliência:** Design de esteiras assíncronas utilizando **Apache Kafka** acopladas a padrões de **Circuit Breaker** e Fallbacks automáticos para garantir 100% de uptime (Uptime-First).
-* **Otimização de Concorrência Física (Bulkhead):** Isolamento de recursos críticos via Pools de Threads customizados (`ThreadPoolExecutor`) e buffers estruturados para eliminação de gargalos históricos de concorrência (*Thread Starvation* e *Deadlocks* em sistemas monolíticos Java).
-* **Cultura de Testes de Carga:** Validação empírica de desempenho e simulação de cenários de estresse caótico utilizando **Grafana K6** em ambientes Linux.
+* **Domínio Fiscal e Regulatório:** Implementação de demandas regulatórias complexas, garantindo conformidade e integridade em fluxos fiscais do varejo.
+* **Sustentação e Evolução de Features:** Investigação minuciosa de bugs em sistemas legados e distribuídos, aplicando refatorações seguras e implementando novas funcionalidades.
+* **Apoio Técnico e Mentoria:** Suporte consultivo ao time de desenvolvimento, compartilhando conhecimento profundo do produto e auxiliando no desbloqueio de impedimentos técnicos.
+
+---
+
+## 🚀 Laboratório de Engenharia e Estudos de Alta Performance
+
+Para expandir minhas fronteiras técnicas além do dia a dia corporativo, mantenho um laboratório ativo de estudos focado em **estresse de infraestrutura, concorrência e baixa latência**. Os principais conceitos que domino e aplico nos meus projetos autorais são:
+
+* **Gerenciamento de Concorrência Extrema:** Uso de travas distribuídas com **Redis (Redisson)** e Lock Otimista (`@Version` no PostgreSQL) para prevenção de *Double-Booking* em cenários caóticos.
+* **Controle de Tráfego Nativo (Rate Limiting):** Implementação puramente matemática ($O(1)$) do algoritmo *Token Bucket*, eliminando *background threads* para otimização de CPU na JVM.
+* **Cultura de Engenharia Empírica:** Escrita e execução de scripts de testes de carga e estresse utilizando **Grafana K6** para mapear o comportamento da aplicação sob pressão severa.
+
+*(Você pode conferir as implementações práticas desses conceitos nos repositórios em destaque no meu perfil, como o **TicketFast** e o **Dynamic Rate Limiter**).*
 
 ---
 
@@ -41,6 +54,6 @@ Meu trabalho consiste em transformar requisitos de negócio em código de ultra 
 
 ## 🤝 Conecte-se Comigo
 
-Adoro discutir padrões de microsserviços, otimização de performance na JVM e estratégias de mensageria para sistemas distribuídos. Sinta-se à vontade para iniciar uma conversa ou analisar os repositórios técnicos do meu perfil!
+Adoro discutir regras de negócios complexas do varejo, arquitetura de sistemas e estratégias de performance backend. Sinta-se à vontade para iniciar uma conversa no LinkedIn ou analisar as provas de conceito nos meus repositórios!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-sousa-249053176)
